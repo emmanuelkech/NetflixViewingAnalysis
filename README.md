@@ -1,6 +1,6 @@
 # Netflix Viewing Analysis
 
-**Data Source:** *<a>https://www.kaggle.com/datasets/shivamb/netflix-shows</a>* <br/>
+**Data Source:** *https://www.kaggle.com/datasets/shivamb/netflix-shows* <br/>
 **Data Visualization Tool:** *Microsoft Power BI* <br/>
 
 ## Goal
